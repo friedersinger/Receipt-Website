@@ -11,5 +11,3 @@ To get started, enter a search query in the search bar and click the search butt
 To view your bookmarked recipes, click the "Bookmarks" button in the top right corner of the screen. From there, you can click on a recipe to view its details or remove it from your bookmarks by clicking the bookmark button again.
 
 To create and upload your own recipe to the app, click the "Add Recipe" button in the top right corner of the screen. This will bring up a form where you can enter all the necessary details for your recipe, including a name, ingredients, instructions, and a photo. When you're finished, click the "Submit" button to upload your recipe to the app.
-
-# receipt-website

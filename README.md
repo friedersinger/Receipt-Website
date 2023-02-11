@@ -1,4 +1,4 @@
-# receipt website
+# recipe website
 
 #### Website: <https://forkify-singer.netlify.app>
 
